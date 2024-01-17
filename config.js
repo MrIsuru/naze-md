@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
-global.packname = 'Sticker By'
-global.author = 'Naze Dev'
+global.owner = ['94766632281']
+global.ownernomer = "94766632281"
+global.premium = ['94766632281']
+global.packname = 'ʙʏ;'
+global.author = 'ɪᴄᴍ'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -59,15 +59,15 @@ global.thumb = fs.readFileSync('./media/image/naze.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
 
 // Url
-global.mygit = 'https://github.com/nazedev'
-global.myyt = 'https://youtube.com/c/Nazedev'
-global.myytv = 'https://youtu.be/FAsL-Jy4qLc'
-global.mygc = "https://chat.whatsapp.com/Cp1OJenk6Q9D9vgLjLU558"
+global.mygit = 'https://github.com/MrIsuru'
+global.myyt = 'https://youtube.com/@doom_music_00'
+global.myytv = ''
+global.mygc = "https://chat.whatsapp.com/Ko2HfqBt5mjEsmV9fY7Bsq"
 
 // Engak Ngaruh, Belum Kepasang
 global.botname = 'NAZE BOT'
-global.akulaku = 'Bot By Naze'
-global.ytname = 'YT NAZE' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
+global.akulaku = '► *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ɪꜱᴜʀᴜ ᴏꜰᴄ*'
+global.ytname = 'YT Doom Music' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
 let file = require.resolve(__filename)
